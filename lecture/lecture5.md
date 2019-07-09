@@ -20,4 +20,4 @@ setps:
    - jaccard similarity : (intersection/union) of two sets
    - consine similarity : cos(@)
   
-  3.
+  3. solving some example
