@@ -2,7 +2,7 @@
 
 ## collaborative filtering
 
-1. nighborhood-based or memory-based collaborative
+### 1. nighborhood-based or memory-based collaborative
 
   - user-based CF: 사용자의 데이터를 기반으로 다른 사용자가 실행시킨 것과 비슷한 것을 추천해주는 시스템
 
@@ -15,7 +15,7 @@ setps:
 3)사용자의 선택 비율 예측
 
 
- 2. similarity beween users by what measure?
+### 2. similarity beween users by what measure?
  
    - jaccard similarity : (intersection/union) of two sets
    - consine similarity : cos(@)
