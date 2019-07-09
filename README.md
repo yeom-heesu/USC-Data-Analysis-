@@ -11,7 +11,7 @@
 [lab](https://github.com/yeom-heesu/USC-Data-Analysis-/blob/master/lab2.ipynb)
 
 2019.07.03(Wed)[lecture](https://github.com/yeom-heesu/USC-Data-Analysis-/blob/master/lecture/lecture3.md)
-[lab](https://github.com/yeom-heesu/USC-Data-Analysis-/blob/master/lab3.ipynb)
+[Final_lab & assignment](https://github.com/yeom-heesu/USC-Data-Analysis-/blob/master/week1_assignment.ipynb)
 
 ### Second 3days(2019.07.05-2019.07.09) : data recommandation system
 
