@@ -1,6 +1,6 @@
 ### 2019.07.08 (Mon)
 
-## recommandation system
+## recommendation system
 
 1. Netflex, youtube, ...
 
@@ -19,4 +19,5 @@
 only unique :w0,w1,w5,w10,w9 => count : 5
 
 5. user profile
+
 
