@@ -25,3 +25,11 @@
 
 ### Final 3days(2019.07.10-2019.07.12) : data visualization
 
+2019.07.10(wed)[lecture](https://github.com/yeom-heesu/USC-Data-Analysis-/blob/master/lecture/lecture7.md)
+[lab]()
+
+2019.07.11(Thur)[lecture](https://github.com/yeom-heesu/USC-Data-Analysis-/blob/master/lecture/lecture8.md)
+[lab]()
+
+2019.07.12(Fri)[lecture](https://github.com/yeom-heesu/USC-Data-Analysis-/blob/master/lecture/lecture9.md)
+[lab]()
