@@ -7,14 +7,14 @@
 - character : 26(Eng) ...
 - face : to many... so we can't figure out.
 - speech 
-- medical : ÀÇÇĞ ÆĞÅÏ¿¡¼­´Â 100%ÀÏÄ¡ÇÏÁö ¾Ê¾Æµµ ºñ½ÁÇÏ´Ù¸é °ü°èÀÖ´Ù°í º»´Ù.
+- medical : ì˜í•™ íŒ¨í„´ì—ì„œëŠ” 100%ì¼ì¹˜í•˜ì§€ ì•Šì•„ë„ ë¹„ìŠ·í•˜ë‹¤ë©´ ê´€ê³„ìˆë‹¤ê³  ë³¸ë‹¤.
 
 
 2. clustering is very popular, is grouping similar instances.
 
 3. reinforcement learning.
   
-4. 
+
 
 
 real               F                             T
@@ -24,4 +24,3 @@ F               false positive           false negative
 
 T     
 
-5. 
