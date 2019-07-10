@@ -1,4 +1,4 @@
-### 2019.07.09 (Mon)
+### 2019.07.05 (Fri)
 
 ## Information visualization
 
