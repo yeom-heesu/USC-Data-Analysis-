@@ -13,7 +13,7 @@
 2019.07.03(Wed)[lecture](https://github.com/yeom-heesu/USC-Data-Analysis-/blob/master/lecture/lecture3.md)
 [Final_lab & assignment](https://github.com/yeom-heesu/USC-Data-Analysis-/blob/master/lab/week1_assignment.ipynb)
 
-### Second 3days(2019.07.05-2019.07.09) : data recommandation system
+### Second 3days(2019.07.05-2019.07.09) : data recommendation system
 
 2019.07.05(Fri)[lecture](https://github.com/yeom-heesu/USC-Data-Analysis-/blob/master/lecture/lab/lecture4.md)
 
