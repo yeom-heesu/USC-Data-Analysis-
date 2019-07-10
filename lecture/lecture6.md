@@ -1,4 +1,4 @@
-### 2019.07.10 (Wed)
+### 2019.07.09 (Tue)
 
 ## collaborative filtering
 
