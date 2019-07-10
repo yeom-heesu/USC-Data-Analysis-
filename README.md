@@ -15,10 +15,11 @@
 
 ### Second 3days(2019.07.05-2019.07.09) : data recommandation system
 
-[2019.07.08(Mon)](https://github.com/yeom-heesu/USC-Data-Analysis-/blob/master/lecture/lecture4.md)
+[2019.07.05(Fri)](https://github.com/yeom-heesu/USC-Data-Analysis-/blob/master/lecture/lecture4.md)
 
-[2019.07.09(Thu)](https://github.com/yeom-heesu/USC-Data-Analysis-/blob/master/lecture/lecture5.md)
+[2019.07.08(Mon)](https://github.com/yeom-heesu/USC-Data-Analysis-/blob/master/lecture/lecture5.md)
 
-[2019.07.10(Thu)](https://github.com/yeom-heesu/USC-Data-Analysis-/blob/master/lecture/lecture6.md)
+[2019.07.09(Thu)](https://github.com/yeom-heesu/USC-Data-Analysis-/blob/master/lecture/lecture6.md)
 
 ### Final 3days(2019.07.10-2019.07.12) : data visualization
+
