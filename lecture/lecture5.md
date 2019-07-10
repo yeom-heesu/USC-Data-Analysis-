@@ -1,4 +1,4 @@
-### 2019.07.09 (Thu)
+### 2019.07.08 (Mon)
 
 ## recommendation system
 
