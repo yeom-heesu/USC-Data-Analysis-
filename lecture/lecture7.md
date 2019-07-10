@@ -15,3 +15,7 @@
 1)"Korean, French, American, Greek, Swiss" => Categorical Nominal
 
 2)"60F 70F 80F 90F 100F" => Numerical Interval
+
+3. intermission
+
+visualization design.
