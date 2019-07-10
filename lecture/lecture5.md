@@ -1,4 +1,4 @@
-### 2019.07.09 (Thu)
+### 2019.07.08 (Mon)
 
 ## collaborative filtering
 
@@ -21,3 +21,4 @@ setps:
    - consine similarity : cos(@)
   
   3. solving some example
+
