@@ -1,4 +1,4 @@
-### 2019.07.08 (Mon)
+### 2019.07.09 (Thu)
 
 ## recommendation system
 
@@ -19,5 +19,4 @@
 only unique :w0,w1,w5,w10,w9 => count : 5
 
 5. user profile
-
 
