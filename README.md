@@ -31,6 +31,5 @@
 2019.07.11(Thur)[lecture](https://github.com/yeom-heesu/USC-Data-Analysis-/blob/master/lecture/lecture8.md)
 [lab](https://github.com/yeom-heesu/USC-Data-Analysis-/blob/master/lab/lab7.ipynb)
 
-2019.07.12(Fri)[lecture](https://github.com/yeom-heesu/USC-Data-Analysis-/blob/master/lecture/lecture9.md)
+2019.07.12(Fri)[lecture](https://github.com/yeom-heesu/USC-Data-Analysis-/blob/master/lecture/final_lecture.md)
 [lab]()
-
