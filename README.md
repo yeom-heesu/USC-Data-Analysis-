@@ -32,4 +32,4 @@
 [lab](https://github.com/yeom-heesu/USC-Data-Analysis-/blob/master/lab/lab7.ipynb)
 
 2019.07.12(Fri)[lecture](https://github.com/yeom-heesu/USC-Data-Analysis-/blob/master/lecture/final_lecture.md)
-[lab]()
+[lab](https://github.com/yeom-heesu/USC-Data-Analysis-/blob/master/lab/lab9.twb)
